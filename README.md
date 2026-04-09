@@ -15,7 +15,7 @@ I am a passionate **Data Engineer** focused on building robust ETL pipelines and
 ---
 
 ### 🌟 Featured Project
-#### [Automated ETL Pipeline: From Raw Transactions to Fact Tables](https://github.com)
+#### [Automated ETL Pipeline: From Raw Transactions to Fact Tables](https://github.com/nurkaromah/mini-data-warehouse-project)
 Built an end-to-end automated pipeline that cleans messy transaction data using SQL CTEs and schedules daily executions using Linux Cron Jobs. 
 - **Tech used:** Python, SQLAlchemy, MySQL, Crontab.
 
