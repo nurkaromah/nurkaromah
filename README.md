@@ -22,7 +22,7 @@ Built an end-to-end automated pipeline that cleans messy transaction data using 
 ---
 
 ### 📫 Let's Connect!
-- - **LinkedIn:** [linkedin.com/in/siti-nurkaromah](https://www.linkedin.com/in/siti-nurkaromah)
+- **LinkedIn:** [linkedin.com/in/siti-nurkaromah](https://www.linkedin.com/in/siti-nurkaromah)
 - **Portfolio:** *Coming Soon*
 
 ---
