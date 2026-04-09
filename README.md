@@ -30,3 +30,12 @@ Built an end-to-end automated pipeline that cleans messy transaction data using 
 ### 📊 GitHub Stats
 ![Nur's GitHub Stats](https://vercel.app)
 ![Top Langs](https://vercel.app)
+---
+
+### 🟢 Available for Hire
+I am currently looking for new opportunities and freelance projects in **Data Engineering**. If you have a data challenge, a messy database that needs cleaning, or a pipeline that needs automation, let's talk!
+
+- **Available for:** Freelance Projects, Part-time/Full-time Roles.
+- **Interests:** ETL Development, Data Automation, Data Warehousing.
+
+---
